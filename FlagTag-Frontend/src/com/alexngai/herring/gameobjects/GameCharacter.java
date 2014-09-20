@@ -6,8 +6,8 @@ import android.util.Log;
 
 import com.alexngai.framework.Graphics;
 import com.alexngai.framework.Image;
-import com.alexngai.herring.Assets;
-import com.alexngai.herring.ControlState;
+import com.lab318.flagtag.Assets;
+import com.lab318.flagtag.ControlState;
 
 public class GameCharacter extends GameObject {
 	

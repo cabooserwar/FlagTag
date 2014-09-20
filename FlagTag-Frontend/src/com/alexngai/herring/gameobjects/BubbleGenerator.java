@@ -1,7 +1,7 @@
 package com.alexngai.herring.gameobjects;
 
 import com.alexngai.framework.Image;
-import com.alexngai.herring.Assets;
+import com.lab318.flagtag.Assets;
 
 public class BubbleGenerator {
 	
