@@ -30,7 +30,7 @@
             <intent-filter>
                 <action android:name="com.google.android.c2dm.intent.REGISTRATION"/>
                 <category android:name="com.alexngai.herring"/>
-            </intent-filter>
+            </intent-filter>	
         </receiver>
     
         <activity android:launchMode="singleTop" android:name="com.lab318.flagtag.RegisterActivity"/>
